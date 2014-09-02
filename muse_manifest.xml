@@ -4,13 +4,13 @@
     <file name="master_a-master.css" crc="348042026" ref="index:--contact--:--resume--:--portfolio--"/>
     <file name="index.css" crc="3760222089" ref="index"/>
     <file name="--contact--.css" crc="399237881" ref="--contact--"/>
-    <file name="--resume--.css" crc="4033351214" ref="--resume--"/>
-    <file name="--portfolio--.css" crc="38828189" ref="--portfolio--"/>
+    <file name="--resume--.css" crc="4287049280" ref="--resume--"/>
+    <file name="--portfolio--.css" crc="327808619" ref="--portfolio--"/>
   </folder>
   <folder name="assets">
     <file name="s-cleland-resume-2014.pdf" crc="4180799035" mt="1397054476000"/>
     <file name="s-cleland-athenahealth-cover-letter.pdf" crc="3903234544" mt="1397056450000"/>
-    <file name="secleland-resume-2014.pdf" crc="286715550" mt="1409683879000"/>
+    <file name="secleland-resume-2014.pdf" crc="134655445" mt="1409686371000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:--resume--:--contact--:--portfolio--"/>
@@ -39,10 +39,6 @@
     <file name="u2127-6.png" crc="4022803632" ref="--resume--"/>
     <file name="u2168-4.png" crc="346102368" ref="--resume--"/>
     <file name="blank.gif" crc="4208392903" ref="--resume--:--portfolio--"/>
-    <file name="u1976.png" crc="192645778" ref="--resume--"/>
-    <file name="u1976-r.png" crc="4294865579" ref="--resume--"/>
-    <file name="u1976-m.png" crc="4294865579" ref="--resume--"/>
-    <file name="u1976-a.png" crc="192645778" ref="--resume--"/>
     <file name="--contact---favicon.ico" crc="448386294" ref="--contact--"/>
     <file name="u1098-4.png" crc="4104301927" ref="--contact--"/>
     <file name="u1119-7.png" crc="4115389128" ref="--contact--"/>
@@ -77,25 +73,29 @@
     <file name="screen shot 2014-06-13 at 94912 am192x150.jpg" crc="30392819" ref="--portfolio--"/>
     <file name="sadies-ticket-2182x253.jpg" crc="320308656" ref="--portfolio--"/>
     <file name="loading.gif" crc="3815509949" ref="--portfolio--"/>
-    <file name="u2840.png" crc="487472579" ref="--resume--"/>
-    <file name="u2840-r.png" crc="475983485" ref="--resume--"/>
-    <file name="u2840-m.png" crc="475983485" ref="--resume--"/>
-    <file name="u2840-a.png" crc="487472579" ref="--resume--"/>
-    <file name="u2811.png" crc="3854759228" ref="--resume--"/>
-    <file name="u2811-r.png" crc="3768461576" ref="--resume--"/>
-    <file name="u2811-m.png" crc="3768461576" ref="--resume--"/>
-    <file name="u2811-a.png" crc="3854759228" ref="--resume--"/>
-    <file name="u2815.png" crc="28121667" ref="--resume--"/>
-    <file name="u2815-r.png" crc="467724448" ref="--resume--"/>
-    <file name="u2815-m.png" crc="467724448" ref="--resume--"/>
-    <file name="u2815-a.png" crc="28121667" ref="--resume--"/>
-    <file name="u2819.png" crc="269968060" ref="--resume--"/>
-    <file name="u2819-r.png" crc="484434309" ref="--resume--"/>
-    <file name="u2819-m.png" crc="484434309" ref="--resume--"/>
-    <file name="u2819-a.png" crc="269968060" ref="--resume--"/>
+    <file name="u2987.png" crc="3818929132" ref="--resume--"/>
+    <file name="u2987-r.png" crc="3923887973" ref="--resume--"/>
+    <file name="u2987-m.png" crc="3923887973" ref="--resume--"/>
+    <file name="u2987-a.png" crc="3818929132" ref="--resume--"/>
+    <file name="u2990.png" crc="487472579" ref="--resume--"/>
+    <file name="u2990-r.png" crc="475983485" ref="--resume--"/>
+    <file name="u2990-m.png" crc="475983485" ref="--resume--"/>
+    <file name="u2990-a.png" crc="487472579" ref="--resume--"/>
+    <file name="u2994.png" crc="3854759228" ref="--resume--"/>
+    <file name="u2994-r.png" crc="3768461576" ref="--resume--"/>
+    <file name="u2994-m.png" crc="3768461576" ref="--resume--"/>
+    <file name="u2994-a.png" crc="3854759228" ref="--resume--"/>
+    <file name="u3000.png" crc="28121667" ref="--resume--"/>
+    <file name="u3000-r.png" crc="467724448" ref="--resume--"/>
+    <file name="u3000-m.png" crc="467724448" ref="--resume--"/>
+    <file name="u3000-a.png" crc="28121667" ref="--resume--"/>
+    <file name="u3013.png" crc="269968060" ref="--resume--"/>
+    <file name="u3013-r.png" crc="484434309" ref="--resume--"/>
+    <file name="u3013-m.png" crc="484434309" ref="--resume--"/>
+    <file name="u3013-a.png" crc="269968060" ref="--resume--"/>
   </folder>
   <file name="index.html" crc="438054702" mt="1409685858446" redirect="true"/>
-  <file name="--resume--.html" crc="3848257906" mt="1409685848411" redirect="true"/>
+  <file name="--resume--.html" crc="4040874738" mt="1409686880801" redirect="true"/>
   <file name="--contact--.html" crc="4133240975" mt="1409685649560" redirect="true"/>
-  <file name="--portfolio--.html" crc="4289737062" mt="1409501330230" redirect="true"/>
+  <file name="--portfolio--.html" crc="4003793892" mt="1409686223075" redirect="true"/>
 </manifest>
