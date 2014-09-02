@@ -176,42 +176,74 @@
 	margin-right: -10000px;
 }
 
-#u3074-6
+#u3087-4
 {
-	z-index: 63;
+	z-index: 72;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
-	left: 79px;
+	margin-top: 25px;
+	left: 75px;
+}
+
+#u3074-5
+{
+	z-index: 61;
+	width: 389px;
+	min-height: 28px;
+	line-height: 24px;
+	font-size: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 122px;
 }
 
 #pu3080
 {
 	width: 0.01px;
 	margin-left: 57px;
-	margin-top: 17px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u3080
 {
-	z-index: 75;
+	z-index: 70;
 	width: 58px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u3086-6
+#u3088-4
 {
-	z-index: 69;
+	z-index: 84;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
-	left: 72px;
+	margin-top: 21px;
+	left: 68px;
+}
+
+#u3086-4
+{
+	z-index: 66;
+	width: 306px;
+	min-height: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 125px;
+}
+
+#pu2715
+{
+	width: 0.01px;
+	margin-left: 50px;
+	margin-top: 8px;
+	position: relative;
 }
 
 #u2715
@@ -222,22 +254,33 @@
 	margin-right: -10000px;
 }
 
-#u3071-6
+#u3089-4
 {
-	z-index: 51;
+	z-index: 76;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 23px;
-	left: 79px;
+	margin-top: 26px;
+	left: 75px;
 }
 
-#pu2715,#pu2717
+#u3071-5
+{
+	z-index: 51;
+	width: 306px;
+	min-height: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 142px;
+}
+
+#pu2717
 {
 	width: 0.01px;
 	margin-left: 50px;
-	margin-top: 17px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -256,15 +299,38 @@
 	height: 65px;
 }
 
-#u3073-6
+#u3090-4
 {
-	z-index: 57;
+	z-index: 80;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 25px;
-	left: 79px;
+	left: 75px;
+}
+
+#u3073-5
+{
+	z-index: 56;
+	width: 306px;
+	min-height: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 133px;
+}
+
+#u3074-3,#u3086-2,#u3071-3,#u3073-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3074,#u3086,#u3071,#u3073
+{
+	font-size: 17px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	line-height: 20px;
 }
 
 #u1027
@@ -273,7 +339,7 @@
 	width: 1223px;
 	padding-bottom: 4px;
 	left: -101px;
-	margin-top: 165px;
+	margin-top: 160px;
 }
 
 #u2683

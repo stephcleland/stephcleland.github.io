@@ -83,25 +83,33 @@ body
 
 a:link
 {
-	color: #39B54A;
+	color: #000000;
+	font-style: normal;
+	font-weight: normal;
 	text-decoration: none;
 }
 
 a:visited
 {
-	color: #FCEE21;
+	color: #7F7F7F;
+	font-style: normal;
+	font-weight: normal;
 	text-decoration: none;
 }
 
 a:hover
 {
-	color: #FF00FF;
+	color: #7F7F7F;
+	font-style: normal;
+	font-weight: normal;
 	text-decoration: none;
 }
 
 a:active
 {
-	color: #0000FF;
+	color: #20828C;
+	font-style: normal;
+	font-weight: normal;
 	text-decoration: none;
 }
 
