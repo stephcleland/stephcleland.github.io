@@ -160,23 +160,93 @@
 	position: relative;
 }
 
+#pu2719
+{
+	width: 0.01px;
+	margin-left: 50px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u2719
+{
+	z-index: 49;
+	width: 70px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3074-6
+{
+	z-index: 63;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 79px;
+}
+
+#pu3080
+{
+	width: 0.01px;
+	margin-left: 57px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u3080
+{
+	z-index: 75;
+	width: 58px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3086-6
+{
+	z-index: 69;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 72px;
+}
+
 #u2715
 {
-	z-index: 59;
+	z-index: 45;
 	width: 65px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
+}
+
+#u3071-6
+{
+	z-index: 51;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 79px;
+}
+
+#pu2715,#pu2717
+{
+	width: 0.01px;
+	margin-left: 50px;
+	margin-top: 17px;
+	position: relative;
 }
 
 #u2717
 {
-	z-index: 61;
+	z-index: 47;
 	width: 66px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 93px;
 }
 
 #u2717_clip
@@ -186,44 +256,15 @@
 	height: 65px;
 }
 
-#u2719
+#u3073-6
 {
-	z-index: 63;
-	width: 70px;
-	position: relative;
-	margin-right: -10000px;
-	left: 184px;
-}
-
-#pu2715,#pu1119-7
-{
-	width: 0.01px;
-	margin-left: 59px;
-	margin-top: 32px;
-	position: relative;
-}
-
-#u1119-7
-{
-	z-index: 45;
+	z-index: 57;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u1138-7
-{
-	z-index: 52;
-	width: 337px;
-	min-height: 67px;
-	font-size: 18px;
-	line-height: 22px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 3px;
-	left: 65px;
+	margin-top: 25px;
+	left: 79px;
 }
 
 #u1027
@@ -232,7 +273,7 @@
 	width: 1223px;
 	padding-bottom: 4px;
 	left: -101px;
-	margin-top: 290px;
+	margin-top: 165px;
 }
 
 #u2683

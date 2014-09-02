@@ -3,9 +3,9 @@
     <file name="site_global.css" crc="177124"/>
     <file name="master_a-master.css" crc="348042026" ref="index:--contact--:--resume--:--portfolio--"/>
     <file name="index.css" crc="3760222089" ref="index"/>
-    <file name="--contact--.css" crc="399237881" ref="--contact--"/>
-    <file name="--resume--.css" crc="4287049280" ref="--resume--"/>
-    <file name="--portfolio--.css" crc="327808619" ref="--portfolio--"/>
+    <file name="--contact--.css" crc="112581677" ref="--contact--"/>
+    <file name="--resume--.css" crc="221684116" ref="--resume--"/>
+    <file name="--portfolio--.css" crc="399410146" ref="--portfolio--"/>
   </folder>
   <folder name="assets">
     <file name="s-cleland-resume-2014.pdf" crc="4180799035" mt="1397054476000"/>
@@ -41,7 +41,6 @@
     <file name="blank.gif" crc="4208392903" ref="--resume--:--portfolio--"/>
     <file name="--contact---favicon.ico" crc="448386294" ref="--contact--"/>
     <file name="u1098-4.png" crc="4104301927" ref="--contact--"/>
-    <file name="u1119-7.png" crc="4115389128" ref="--contact--"/>
     <file name="u1953-4.png" crc="3995118895" ref="--portfolio--"/>
     <file name="screen shot 2014-06-10 at 53917 pm.jpg" crc="52636306" ref="--portfolio--"/>
     <file name="tex cover 4-01.jpg" crc="340966450" ref="--portfolio--"/>
@@ -93,9 +92,14 @@
     <file name="u3013-r.png" crc="484434309" ref="--resume--"/>
     <file name="u3013-m.png" crc="484434309" ref="--resume--"/>
     <file name="u3013-a.png" crc="269968060" ref="--resume--"/>
+    <file name="u3074-6.png" crc="4026752747" ref="--contact--"/>
+    <file name="phone icon.png" crc="4160694912" ref="--contact--"/>
+    <file name="u3086-6.png" crc="3825944588" ref="--contact--"/>
+    <file name="u3071-6.png" crc="4101063514" ref="--contact--"/>
+    <file name="u3073-6.png" crc="3859955414" ref="--contact--"/>
   </folder>
-  <file name="index.html" crc="438054702" mt="1409685858446" redirect="true"/>
-  <file name="--resume--.html" crc="4040874738" mt="1409686880801" redirect="true"/>
-  <file name="--contact--.html" crc="4133240975" mt="1409685649560" redirect="true"/>
-  <file name="--portfolio--.html" crc="4003793892" mt="1409686223075" redirect="true"/>
+  <file name="index.html" crc="438054702" mt="1409688009617" redirect="true"/>
+  <file name="--resume--.html" crc="3877979625" mt="1409688009619" redirect="true"/>
+  <file name="--contact--.html" crc="3774138490" mt="1409688056733" redirect="true"/>
+  <file name="--portfolio--.html" crc="4003793892" mt="1409688009628" redirect="true"/>
 </manifest>
