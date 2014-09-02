@@ -209,7 +209,7 @@
 {
 	width: 0.01px;
 	left: -68px;
-	margin-top: 33px;
+	margin-top: 23px;
 	position: relative;
 }
 
@@ -222,22 +222,22 @@
 	background-color: #F7F9EC;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 351px;
+	margin-top: 361px;
 }
 
 #accordionu1959
 {
 	z-index: 40;
-	width: 957px;
+	width: 958px;
 	position: relative;
 	margin-right: -10000px;
-	left: 116px;
+	left: 114px;
 }
 
 #u1975
 {
 	z-index: 41;
-	width: 957px;
+	width: 958px;
 	position: relative;
 }
 
@@ -245,7 +245,7 @@
 {
 	z-index: 43;
 	height: 41px;
-	width: 957px;
+	width: 958px;
 	vertical-align: top;
 	background: url("../images/u1976.png") no-repeat 0px 0px;
 	position: relative;
@@ -272,7 +272,8 @@
 	width: 957px;
 	border-color: #FFFFFF;
 	background-color: #F7F9EC;
-	padding-bottom: 669px;
+	padding-right: 1px;
+	padding-bottom: 436px;
 	position: relative;
 }
 
@@ -283,18 +284,14 @@
 	min-height: 105px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 4px;
 }
 
 #accordionu2809
 {
 	z-index: 58;
 	width: 957px;
+	margin-top: 25px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 76px;
 }
 
 #u2837

@@ -2,9 +2,9 @@
   <folder name="css">
     <file name="site_global.css" crc="177124"/>
     <file name="master_a-master.css" crc="348042026" ref="index:--contact--:--resume--:--portfolio--"/>
-    <file name="index.css" crc="27667725" ref="index"/>
-    <file name="--contact--.css" crc="4222706309" ref="--contact--"/>
-    <file name="--resume--.css" crc="52032453" ref="--resume--"/>
+    <file name="index.css" crc="3760222089" ref="index"/>
+    <file name="--contact--.css" crc="399237881" ref="--contact--"/>
+    <file name="--resume--.css" crc="4033351214" ref="--resume--"/>
     <file name="--portfolio--.css" crc="38828189" ref="--portfolio--"/>
   </folder>
   <folder name="assets">
@@ -30,7 +30,7 @@
     <file name="u116-4.png" crc="100796707" ref="index:--resume--:--contact--:--portfolio--"/>
     <file name="u654-4.png" crc="3938854094" ref="index:--resume--:--contact--:--portfolio--"/>
     <file name="u180-4.png" crc="3879959027" ref="index:--resume--:--contact--:--portfolio--"/>
-    <file name="1399561_10202723204504679_1608768_o.jpg" crc="4023958086" ref="index"/>
+    <file name="1399561_10202723204504679_1608768_o.jpg" crc="127183740" ref="index"/>
     <file name="u1073-4.png" crc="5745336" ref="index"/>
     <file name="u1075-4.png" crc="450091535" ref="index"/>
     <file name="pasted image 128x128.png" crc="499533624" ref="index:--resume--:--contact--:--portfolio--"/>
@@ -39,10 +39,10 @@
     <file name="u2127-6.png" crc="4022803632" ref="--resume--"/>
     <file name="u2168-4.png" crc="346102368" ref="--resume--"/>
     <file name="blank.gif" crc="4208392903" ref="--resume--:--portfolio--"/>
-    <file name="u1976.png" crc="3889484742" ref="--resume--"/>
-    <file name="u1976-r.png" crc="4041384663" ref="--resume--"/>
-    <file name="u1976-m.png" crc="4041384663" ref="--resume--"/>
-    <file name="u1976-a.png" crc="3889484742" ref="--resume--"/>
+    <file name="u1976.png" crc="192645778" ref="--resume--"/>
+    <file name="u1976-r.png" crc="4294865579" ref="--resume--"/>
+    <file name="u1976-m.png" crc="4294865579" ref="--resume--"/>
+    <file name="u1976-a.png" crc="192645778" ref="--resume--"/>
     <file name="--contact---favicon.ico" crc="448386294" ref="--contact--"/>
     <file name="u1098-4.png" crc="4104301927" ref="--contact--"/>
     <file name="u1119-7.png" crc="4115389128" ref="--contact--"/>
@@ -94,8 +94,8 @@
     <file name="u2819-m.png" crc="484434309" ref="--resume--"/>
     <file name="u2819-a.png" crc="269968060" ref="--resume--"/>
   </folder>
-  <file name="index.html" crc="3863962531" mt="1409501179433" redirect="true"/>
-  <file name="--resume--.html" crc="86556780" mt="1409683911078" redirect="true"/>
-  <file name="--contact--.html" crc="3984198658" mt="1409681608702" redirect="true"/>
+  <file name="index.html" crc="438054702" mt="1409685858446" redirect="true"/>
+  <file name="--resume--.html" crc="3848257906" mt="1409685848411" redirect="true"/>
+  <file name="--contact--.html" crc="4133240975" mt="1409685649560" redirect="true"/>
   <file name="--portfolio--.html" crc="4289737062" mt="1409501330230" redirect="true"/>
 </manifest>
