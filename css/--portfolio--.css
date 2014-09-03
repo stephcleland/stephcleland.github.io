@@ -878,8 +878,7 @@
 	width: 1223px;
 	padding-bottom: 4px;
 	left: -101px;
-	top: -63px;
-	margin-bottom: -63px;
+	margin-top: 29px;
 }
 
 #u2683
@@ -933,6 +932,7 @@
 body
 {
 	padding-top: 36px;
+	padding-bottom: 20px;
 }
 
 #page .verticalspacer

@@ -1,11 +1,11 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="3812980754"/>
+    <file name="site_global.css" crc="3890560052"/>
     <file name="master_a-master.css" crc="348042026" ref="index:--contact--:--resume--:--portfolio--"/>
-    <file name="index.css" crc="3760222089" ref="index"/>
-    <file name="--contact--.css" crc="4194785334" ref="--contact--"/>
-    <file name="--resume--.css" crc="221684116" ref="--resume--"/>
-    <file name="--portfolio--.css" crc="399410146" ref="--portfolio--"/>
+    <file name="index.css" crc="4172071235" ref="index"/>
+    <file name="--contact--.css" crc="3955078809" ref="--contact--"/>
+    <file name="--resume--.css" crc="36044716" ref="--resume--"/>
+    <file name="--portfolio--.css" crc="74236727" ref="--portfolio--"/>
   </folder>
   <folder name="assets">
     <file name="s-cleland-resume-2014.pdf" crc="4180799035" mt="1397054476000"/>
@@ -98,8 +98,8 @@
     <file name="u3089-4.png" crc="4133271355" ref="--contact--"/>
     <file name="u3090-4.png" crc="3976303181" ref="--contact--"/>
   </folder>
-  <file name="index.html" crc="305953761" mt="1409688740124" redirect="true"/>
-  <file name="--resume--.html" crc="153080480" mt="1409688740126" redirect="true"/>
-  <file name="--contact--.html" crc="3876363228" mt="1409688740128" redirect="true"/>
-  <file name="--portfolio--.html" crc="3944941402" mt="1409688740129" redirect="true"/>
+  <file name="index.html" crc="305953761" mt="1409759696261" redirect="true"/>
+  <file name="--resume--.html" crc="505699858" mt="1409759696263" redirect="true"/>
+  <file name="--contact--.html" crc="3876363228" mt="1409759696265" redirect="true"/>
+  <file name="--portfolio--.html" crc="3944941402" mt="1409759696267" redirect="true"/>
 </manifest>
