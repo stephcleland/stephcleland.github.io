@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3890560052"/>
     <file name="master_a-master.css" crc="348042026" ref="index:--contact--:--resume--:--portfolio--"/>
-    <file name="index.css" crc="497349752" ref="index"/>
+    <file name="index.css" crc="35175490" ref="index"/>
     <file name="--contact--.css" crc="4291083059" ref="--contact--"/>
     <file name="--resume--.css" crc="3985733734" ref="--resume--"/>
     <file name="--portfolio--.css" crc="74236727" ref="--portfolio--"/>
@@ -10,7 +10,7 @@
   <folder name="assets">
     <file name="s-cleland-resume-2014.pdf" crc="4180799035" mt="1397054476000"/>
     <file name="s-cleland-athenahealth-cover-letter.pdf" crc="3903234544" mt="1397056450000"/>
-    <file name="secleland-resume-2014.pdf" crc="134655445" mt="1409686371000"/>
+    <file name="s-cleland-resume-20142.pdf" crc="134655445" mt="1409686371000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:--resume--:--contact--:--portfolio--"/>
@@ -98,8 +98,8 @@
     <file name="u3090-4.png" crc="3976303181" ref="--contact--"/>
     <file name="favicon.ico" crc="357817581" ref="index"/>
   </folder>
-  <file name="index.html" crc="4189174959" mt="1409781430085" redirect="true"/>
-  <file name="--resume--.html" crc="3911183510" mt="1409781270383" redirect="true"/>
+  <file name="index.html" crc="324447361" mt="1409882304077" redirect="true"/>
+  <file name="--resume--.html" crc="462587204" mt="1409882486722" redirect="true"/>
   <file name="--contact--.html" crc="3876363228" mt="1409781408049" redirect="true"/>
   <file name="--portfolio--.html" crc="270795413" mt="1409781270387" redirect="true"/>
 </manifest>
