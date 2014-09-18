@@ -31,6 +31,7 @@ h1 {
   	top: 15%;
 	width: 48%;
 	float: right;
+	margin-right: 15px;
 }
 
 .columnl {
@@ -41,6 +42,22 @@ h1 {
 	padding-left: 120px;
 	font-size: 14px;
 	color: #808080;
+}
+
+.columnr2 {
+	position: relative;
+  	top: 15%;
+	width: 40%;
+	float: right;
+	padding-right: 100px;
+}
+
+.columnl2 {
+	position: relative;
+	top: 10%;
+	width: 40%;
+	float: left;
+	padding-left: 100px;
 }
 
 .topbar {
@@ -82,9 +99,10 @@ a.headerlink:hover {
 	box-shadow: 2px 5px 10px #888888;
 
 }
+
 .bioimage {
 	border-radius: 30px;
-	width: 85%;
+	width: 90%;
 	height: 35%;
 	box-shadow: 2px 5px 10px #888888;
 
