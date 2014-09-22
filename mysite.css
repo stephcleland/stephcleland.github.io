@@ -108,8 +108,6 @@ a.headerlink:hover {
 	float: right;
 	margin-right: 30px;
 	padding-top: 0px;
-text-shadow: .5px .5px .5px black;
-
 }
 
 .download {
@@ -123,7 +121,6 @@ text-shadow: .5px .5px .5px black;
 	width: 450px;
 	height: 470px;
 	box-shadow: 2px 5px 10px #888888;
-
 }
 
 .bioimage {
