@@ -1,6 +1,6 @@
 Stephanie Cleland
 
-Comp 20
+Comp 20: Web Programming
 
 21 September 2014
 
