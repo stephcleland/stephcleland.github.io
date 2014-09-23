@@ -1,5 +1,7 @@
 Stephanie Cleland
+
 Comp 20
+
 21 September 2014
 
 Project 1: Portfolio
