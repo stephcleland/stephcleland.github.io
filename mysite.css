@@ -104,14 +104,14 @@ a.headerlink:hover {
 
 a.logo:hover {
 	color: white;
-
 }
+
 .imglink {
 	width: 30px;
 	height: 30px;
 	float: right;
-	margin-right: 30px;
-	padding-top: 0px;
+	margin-right: 2.5%;
+
 }
 
 .download {
@@ -130,7 +130,7 @@ a.logo:hover {
 .bioimage {
 	border-radius: 30px;
 	width: 90%;
-	height: 35%;
+	height: 25%;
 	box-shadow: 2px 5px 10px #888888;
 
 }
