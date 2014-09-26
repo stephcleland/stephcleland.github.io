@@ -26,12 +26,13 @@ h1 {
     text-shadow: .5px .5px .5px black;
 
 }
+
 .columnr {
 	position: relative;
   	top: 15%;
 	width: 48%;
 	float: right;
-	margin-right: 15px;
+	padding-right: 1%;
 	padding-top: 100px;
 }
 
@@ -40,7 +41,7 @@ h1 {
 	top: 15%;
 	width: 40%;
 	float: left;
-	padding-left: 120px;
+	padding-left: 10%;
 	padding-top: 100px;
 	font-size: 14px;
 	color: #808080;
@@ -52,7 +53,7 @@ h1 {
   	top: 18%;
 	width: 40%;
 	float: right;
-	padding-right: 100px;
+	padding-right: 8%;
 	padding-top: 140px;
 }
 
@@ -61,7 +62,7 @@ h1 {
 	top: 10%;
 	width: 40%;
 	float: left;
-	padding-left: 100px;
+	padding-left: 8%;
 	padding-top: 100px;
 }
 
@@ -99,7 +100,6 @@ a.headerlink:hover {
 	float: right;
 	margin-right: 25px;
 	margin-top: 4px;
-
 }
 
 a.logo:hover {
@@ -122,8 +122,8 @@ a.logo:hover {
 
 .image {
 	border-radius: 30px;
-	width: 450px;
-	height: 470px;
+	width: 90%;
+	height: 95%;
 	box-shadow: 2px 5px 10px #888888;
 }
 
