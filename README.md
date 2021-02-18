@@ -2,5 +2,5 @@ Stephanie Cleland
 ------
 
 Code for personal website. Accessible via:
- * www.stephcleland.github.io
- * www.stephaniecleland.com
+ * https://stephcleland.github.io
+ * https://stephaniecleland.com
