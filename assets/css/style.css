@@ -562,7 +562,7 @@ section {
 }
 
 .publications .iconbox-orange i {
-  color: #ffa76e;
+  color: #f28500;
 }
 
 .publications .iconbox-orange:hover .icon i {
@@ -570,11 +570,11 @@ section {
 }
 
 .publications .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #f28500;
 }
 
 .publications .iconbox-pink i {
-  color: #e80368;
+  color: #e34234;
 }
 
 .publications .iconbox-pink:hover .icon i {
@@ -582,11 +582,11 @@ section {
 }
 
 .publications .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #e34234;
 }
 
 .publications .iconbox-yellow i {
-  color: #ffbb2c;
+  color: #ffbf00;
 }
 
 .publications .iconbox-yellow:hover .icon i {
@@ -594,11 +594,11 @@ section {
 }
 
 .publications .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+  fill: #ffbf00;
 }
 
 .publications .iconbox-red i {
-  color: #ff5828;
+  color: #ff7f50;
 }
 
 .publications .iconbox-red:hover .icon i {
@@ -606,7 +606,7 @@ section {
 }
 
 .publications .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #ff7f50;
 }
 
 .publications .iconbox-teal i {
@@ -621,6 +621,40 @@ section {
   fill: #11dbcf;
 }
 
+.publications .iconbox-yellow2 i {
+  color: #f4c430;
+}
+
+.publications .iconbox-yellow2:hover .icon i {
+  color: #fff;
+}
+
+.publications .iconbox-yellow2:hover .icon path {
+  fill: #f4c430;
+}
+
+.publications .iconbox-orange2 i {
+  color: #f04a00;
+}
+
+.publications .iconbox-orange2:hover .icon i {
+  color: #fff;
+}
+
+.publications .iconbox-orange2:hover .icon path {
+  fill: #f04a00;
+}
+.publications .iconbox-red2 i {
+  color: #ff7518;
+}
+
+.publications .iconbox-red2:hover .icon i {
+  color: #fff;
+}
+
+.publications .iconbox-red2:hover .icon path {
+  fill: #ff7518;
+}
 
 /*--------------------------------------------------------------
 # Contact
